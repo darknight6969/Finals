@@ -1,0 +1,62 @@
+<html>
+<head>
+<div id="menu" align="right"><font color=black size=4.5>
+<a style="color:black;" href="thebicyclezone.html">HOME</a> &nbsp |&nbsp &nbsp
+<a style="color:black;" href="CONTACT.html">CONTACT</a> &nbsp | &nbsp &nbsp
+<a style="color:black;" href="VISITUS.html">VISIT US</a> &nbsp | &nbsp &nbsp
+<a style="color:black;" href="ABOUTUS.html">ABOUT US</a> &nbsp | &nbsp &nbsp
+<a style="color:black;" href="HELP.html">HELP</a></font>
+</div> 
+<div id="menu" align="center" >
+<font color=black size=5>
+<h1 style="font-family:Georgia;" > The Bicycle Zone </h1>
+</font>
+</div>
+</head>
+<body leftmargin="50" topmargin="30" bgcolor="white">
+<img src=happiness2.jpg width=1255>
+
+<pre style="font-family:Verdana;">
+	<i>Ladies and gentlemen, cycling enthusiasts</i>, and <i>adventure seekers</i>,welcome to our virtual realm of pedal-powered possibilities – the premier online 
+bicycle shop! We are thrilled to embark on this <i>exciting journey</i> with you, where the wheels of innovation, convenience, and top-notch service come together 
+to redefine the way you experience the world on two wheels.
+
+	At our online bicycle shop, <u>we understand the profound joy and freedom that cycling brings.</u> Whether you're a seasoned rider seeking to conquer 
+new horizons or a novice yearning for your first taste of the open road, we are here to cater to your every cycling need. <b>From high-performance road 
+bikes that slice through the wind to rugged mountain bikes that fearlessly navigate the most challenging trails</b>, we offer a comprehensive range 
+of top-quality bicycles meticulously selected to <u>elevate your riding experience.</u>
+
+<div><a href="Bike-Market.html"><img src=buyfinal.jpg width=600 align=left></a> <a href="https://www.bikeradar.com/news/"><img src=read.jpg width=600 align=right></a></div>
+<br> <br> <br> <br> <br> <br> 
+<marquee> <font color=red face=arial><b>
+&hearts; New Exclusive Sales Daily &hearts; Save BIG On Brands Like These &hearts; </b></font> </marquee>
+
+
+	But our commitment doesn't stop at offering exceptional bicycles. We believe in creating a cycling community, a space where passionate riders like you 
+can gather, connect, and share their love for the sport. With a team of knowledgeable cycling enthusiasts, we are ready to assist you every step of the 
+way, <b>offering expert advice</b>, <b>personalized recommendations</b>, and <b>unparalleled customer support</b>, ensuring that you find the perfect bike that aligns 
+with your aspirations and goals. 
+
+<iframe width="620" height="320" src="https://www.youtube.com/embed/yotOZVELSMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <iframe width="620" height="320" src="https://www.youtube.com/embed/kjIWvRmG2QI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+	The digital realm has granted us the power to transcend geographical boundaries and bring the world of cycling right to your fingertips. With our 
+intuitive online platform, you can effortlessly browse our extensive catalog, compare specifications, read genuine customer reviews, and make well-
+informed decisions from the comfort of your own home. And with our seamless ordering process and swift, reliable shipping, your dream bike will be 
+delivered to your doorstep, ready to propel you into your next great adventure. 
+
+	We invite you to embark on this exhilarating journey with us, where passion meets performance and convenience meets quality. Whether you're chasing
+speed, exploring nature, or simply seeking the purest form of freedom, our online bicycle shop is your gateway to a world of thrilling possibilities. 
+Join us as we pedal forward together, fueled by the wind in our faces and the sheer joy of riding. 
+</p>
+
+<hr size=2 color=black>
+<p style="font-family:timesnewroman;">Sign up to get the latest on sales, new releases and more…</p>
+	<input type="text" size="30" placeholder=FirstName> 	 <input type="text" size="30" placeholder=LastName>
+<br>
+	<input type=“text" size="58" placeholder=EmailAddress> <button>SIGN UP</button>
+<p style="font-family:timesnewroman;">&COPY; 2023 Unsprung . All Images Copyright of their Respective Owners
+POS and Ecommerce by Shopify <p>
+
+
+</body>
+</html>

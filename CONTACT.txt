@@ -1,0 +1,71 @@
+<html>
+<font style="font-family:Veranda;">
+<head>
+<div id="menu" align="right"><font color=black size=4.5>
+<a style="color:black;" href="thebicyclezone.html">HOME</a> &nbsp |&nbsp &nbsp
+<a style="color:black;" href="CONTACT.html">CONTACT</a> &nbsp | &nbsp &nbsp
+<a style="color:black;" href="VISITUS.html">VISIT US</a> &nbsp | &nbsp &nbsp
+<a style="color:black;" href="ABOUTUS.html">ABOUT US</a> &nbsp | &nbsp &nbsp
+<a style="color:black;" href="HELP.html">HELP</a></font>
+</div> 
+<h1>CONTACT US</h1>
+</head>
+<body topmargin="30" leftmargin="50" bgcolor="lightgray">
+
+<p>For dealer inquiries/orders, contact us at <b>thebicyclezone@gmail.com.sg</b> and we'll get in touch within 2-3 working days.</p>
+
+<p>Q: Do you deliver to all locations in Philippines?</p>
+
+<p>A: Do note that certain locations in Philippines have restricted delivery- These places include: Offshore Islands, Jurong Island, Tuas, Army Camps, Brani Terminals, Changi Airport Cargo, etc.. (Kindly refer to this list here for a detailed listing of locations that we do not deliver to.)</p>
+
+
+<p>Q: How long will it take for my order to arrive (for Philippines addresses)?</p>
+
+<p>A: For standard shipping via registered mail, delivery should be within 3 to 5 working days. A tracking number will be provided. You will receive an e-mail with the tracking number once your order has been shipped. All articles shipped via Registered Mail service will require the addressee to sign for receipt. There may be a delay if the addressee is absent at the time of delivery and we cannot be held responsible in the event of such delays.</p>
+
+<p>Kindly note times listed are from date of shipping, not date of order.</p>
+
+ 
+
+<font align="center">
+<p><b>WITHIN PHILIPPINES</b></p>
+<th></th>
+<table bgcolor="gray" align="center" width=1000 height=200>
+<caption>Delivery Services Fee</caption>
+<tr bgcolor="white" align="center">
+<td><b>Delivery Service</b></td>
+<td><b>Below Php.8 000.00</b></td>
+<td><b>Php.8 000.00 Above</b></td>
+<td><b>Delivery Time</b></td>
+</tr>
+<tr bgcolor="white" align="left">
+<td>Free Shipping for Registered Email</td>
+<td>N.A.</td>
+<td>FREE</td>
+<td>4-7 Working Days</td>
+</tr>
+<tr bgcolor="white" align="left">
+<td>Express Shipping</td>
+<td>Php 300.00</td>
+<td>Php 300.00</td>
+<td>2-3 Working Days</td>
+</tr>
+<tr bgcolor="white" align="left">
+<td>Self Collection</td>
+<td>FREE</td>
+<td>FREE</td>
+<td>may vary</td>
+</tr>
+</table>
+
+<p>There will be a small charge for handling certain liquids and/or bulky items.</p>
+
+
+<p>Self-collection is available at the following address during our operating hours:</p>
+<p>	<i>106 Lacson Street,
+	Bacolod City Negros Occidental,
+	Philippines 6100</i></p>
+</font>
+
+</body>
+</html>

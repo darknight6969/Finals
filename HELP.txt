@@ -1,0 +1,42 @@
+<html>
+<head>
+<div id="menu" align="right"><font color=black size=4.5>
+<a style="color:black;" href="thebicyclezone.html">HOME</a> &nbsp |&nbsp &nbsp
+<a style="color:black;" href="CONTACT.html">CONTACT</a> &nbsp | &nbsp &nbsp
+<a style="color:black;" href="VISITUS.html">VISIT US</a> &nbsp | &nbsp &nbsp
+<a style="color:black;" href="ABOUTUS.html">ABOUT US</a> &nbsp | &nbsp &nbsp
+<a style="color:black;" href="HELP.html">HELP</a></font>
+</div> 
+<h1>HELP</h1>
+</head>
+<body topmargin="30" leftmargin="50" bgcolor="lightgray">
+<p><b>Q: Received the wrong item?</b></p>
+
+<p>A: We take great care to ensure that we ship the exact item you ordered. If you feel there has been a mistake, please contact us immediately upon receiving the item. Please do not use said item nor remove any label tags. We will consider replacing or refunding the item only if it is in its original condition and packaging. Kindly contact us within (3) working days upon receipt of item at thebicyclezone@gmail.com.sg, with your Order ID.
+
+<p><b>Q: Received a damaged package?</b></p>
+
+<p>A: Should the package appear damaged when it arrives, we would request that you photograph the package before opening it.</p>
+
+<p>If indeed the item is damaged, then please take pictures of the damaged item. Forward both sets of pictures to us at thebicyclezone@gmail.com.sg with your Order ID to enable us to assess the issue. Kindly contact us within (3) working days upon receipt of item.</p>
+
+<p><b>Q: I’ve purchased an apparel product but it does not fit well, can I exchange it for a different size?</b></p>
+
+<p>A: You may exchange your purchased apparel product for a similar product of a different size at our Store, subject to availability, within (3) working days upon receipt of item.</p>
+
+<p>We will only be able to exchange apparel product that are returned to us in the same condition that was delivered to you. The original tags, packaging, bags, stickers and/or casings must be intact and the apparel product must not have been worn, washed or stained.</p>
+
+<p>In the event that an exchange is made with a higher-priced product, you will be required to top-up the difference in payment at our Store. We will not provide a refund if the exchange is made with a lower-priced product. </p>
+
+<p>For international customers who would like to exchange your purchased apparel product for a different size, you will need to cover the cost of return postage (tracked service) to Unsprung. </p>
+
+<p><b>Q: What is Unsprung's return policy?</b></p>
+
+<p>A: We do not refund or exchange products in the event that you have changed your mind on your purchase.</p>
+
+<p><b>Q: I've purchased an item during a Sale/Closeout, can I exchange it?</b></p>
+
+<p>A: Items purchased at a discount during a sale or/and on Closeout are final and not applicable for returns/exchanges. </p>
+
+</body>
+</html>
